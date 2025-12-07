@@ -1,0 +1,7 @@
+[General]
+LLM_MODEL_NAME=llama3.1
+WindowPosition=@Point(1047 536)
+LLM_BASE_URL=http://localhost:11434
+WindowSize=@Size(550 450)
+RETRIEVAL_K=3
+THEME=Dark
